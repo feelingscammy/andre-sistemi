@@ -1,8 +1,8 @@
 site_name: DocuAndre
 site_url: https://mydomain.org/mysite
 theme:
+  logo: assets/images/logo.png
   name: material
-  logo: assets/logo.png
   palette:
     # light mode
     - scheme: default
