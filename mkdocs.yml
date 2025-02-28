@@ -2,7 +2,8 @@ site_name: DocuAndre
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-  palette: 
+  logo: docs/assets/logo.svg
+  palette:
 
     # light mode
     - scheme: default
