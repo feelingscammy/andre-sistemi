@@ -7,8 +7,7 @@ theme:
 
     # light mode
     - scheme: settlenext
-    - accent: blue
-    - primary: blue
+    
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
