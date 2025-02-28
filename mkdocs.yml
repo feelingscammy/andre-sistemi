@@ -2,11 +2,13 @@ site_name: DocuAndre
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-  logo: assets/logo.svg
+  logo: docs/logo.svg
   palette:
 
     # light mode
-    - scheme: default
+    - scheme: settlenext
+    - accent: blue
+    - primary: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
