@@ -2,10 +2,11 @@ site_name: DocuAndre
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  logo: docs/logo.png
   palette:
     # light mode
     - scheme: default
-      primary: orange
+      primary: deep orange
       accent: deep green
       toggle:
         icon: material/brightness-7 
@@ -13,7 +14,7 @@ theme:
 
     # dark mode
     - scheme: slate
-      primary: green
+      primary: deep green
       accent: deep purple
       toggle:
         icon: material/brightness-4
